@@ -1,5 +1,3 @@
-# thai-sms-scam-filter
-
 # Thai SMS Scam Filter
 
 An NLP-based solution to detect and flag scam SMS messages in Thai, designed to protect vulnerable users such as the elderly and low-tech individuals.
